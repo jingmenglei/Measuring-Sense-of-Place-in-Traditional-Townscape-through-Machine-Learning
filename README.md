@@ -165,9 +165,3 @@ Outputs
 Notes
 - Large files (`*.h5`, datasets, raw CSVs) are excluded via `.gitignore`.  
 
-
-## 🙌 Acknowledgements
-- OSMnx & Space Syntax community  
-- PSPNet (ADE20K) & ResNet baselines  
-- Sentence-Transformers & HuggingFace  
-- Qwen (Alibaba Cloud) for LLM services  
