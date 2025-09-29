@@ -1,0 +1,2 @@
+Material[[:space:]]classification/1017model.h5 filter=lfs diff=lfs merge=lfs -text
+Material[[:space:]]classification/fine_tuned_model.h5 filter=lfs diff=lfs merge=lfs -text
