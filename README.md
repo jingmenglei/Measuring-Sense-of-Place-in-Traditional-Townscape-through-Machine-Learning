@@ -158,10 +158,15 @@ python semantic/Qwen_watertown_classify.py
 Outputs
 - **Spatial**: confusion matrices, ROC, similarity maps (Suzhou, Shanghai)  
 - **Visual**: material distributions, radar charts, JS similarity scores  
-- **Semantic**: sentiment-scored CSVs, element lexicons, wordclouds  
+- **Semantic**: sentiment-scored CSVs, element lexicons, wordclouds
+
+
+
 
 ---
 
 Notes
 - Large files (`*.h5`, datasets, raw CSVs) are excluded via `.gitignore`.  
 
+## 👥 Project Cooperator
+- Thanks @sherry0423 for implementing the semantic (place-based perception) module!
